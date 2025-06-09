@@ -25,7 +25,7 @@ El objetivo principal del proyecto es limpiar los datos y generar un informe que
 
 ## 🛠️ Detalles técnicos
 
-- El análisis se realizó en **Python**, utilizando principalmente bibliotecas como `pandas`, `matplotlib` y `seaborn`.
+- El análisis se realizó en **Python**, utilizando principalmente bibliotecas como `pandas` y `matplotlib`.
 - Todos los gráficos incluyen título, etiquetas en los ejes y leyendas cuando es necesario.
 - Se utiliza `plt.show()` al final de cada celda para mostrar los gráficos correctamente en el notebook.
 
